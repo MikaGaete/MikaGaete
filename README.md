@@ -9,7 +9,6 @@ I'm currently studying Computer Science and Telecomunications Engeneering at Die
 * 🌍  I'm based in Santiago, Chile :chile:
 * ✉️  You can contact me at [mikagaete3@gmail.com](mailto:mikagaete3@gmail.com)
 * 🚀  I worked in the backend of the [Dyatec's Carbon Footprint Calculator](http://calculadora.dyatec.cl)
-* 🧠  I'm learning multiple databases, such as Mysql and MongoDB
 
 ### Skills
 
