@@ -4,11 +4,10 @@ Hi 👋 My name is Mikael Gaete López
 Backend Developer
 -----------------
 
-I'm currently studying Computer Science and Telecomunications Engeneering at Diego Portales University.
+I'm currently studying Civil Engineering in Computer Science at Universidad de Chile.
 
 * 🌍  I'm based in Santiago, Chile :chile:
 * ✉️  You can contact me at [mikagaete3@gmail.com](mailto:mikagaete3@gmail.com)
-* 🚀  I worked in the backend of the [Dyatec's Carbon Footprint Calculator](http://calculadora.dyatec.cl)
 
 ### Skills
 
