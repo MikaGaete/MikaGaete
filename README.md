@@ -6,6 +6,8 @@
 - 📄 Read about my experiences on my **[cv](https://github.com/MikaGaete/curriculum-vitae)**
 - 👤 Connect with me on [LinkedIn](https://linkedin.com/in/meek-gl)
 
+
+<h3 align="left">Tools and Technologies</h3>
 <div align="center">
 
 <table>
@@ -13,6 +15,7 @@
 <td valign="top" width="50%">
 
 **Languages**
+<br/>
 <br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
@@ -28,6 +31,7 @@
 <td valign="top" width="50%">
 
 **Frontend**
+<br/>
 <br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
@@ -48,6 +52,7 @@
 
 **AI & Agentic Tools**
 <br/>
+<br/>
 <code><img width="40" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" title="Claude"/></code>
 <code><img width="40" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" title="Gemini"/></code>
 <code><img width="40" src="https://cdn.simpleicons.org/deepseek/5786FE" alt="DeepSeek" title="DeepSeek"/></code>
@@ -63,6 +68,7 @@
 
 **Backend / Runtime**
 <br/>
+<br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastify.png" alt="Fastify" title="Fastify"/></code>
@@ -75,6 +81,7 @@
 
 **Databases / ORM**
 <br/>
+<br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" alt="Prisma" title="Prisma"/></code>
@@ -84,6 +91,7 @@
 <td valign="top" width="50%">
 
 **Version Control & Tooling**
+<br/>
 <br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
@@ -97,6 +105,7 @@
 
 **Containers / CI-CD**
 <br/>
+<br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/podman.png" alt="Podman" title="Podman"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
@@ -106,6 +115,7 @@
 <td valign="top" width="50%">
 
 **Infra / Cloud**
+<br/>
 <br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
@@ -119,6 +129,7 @@
 
 **Protocols**
 <br/>
+<br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="WebSocket" title="WebSocket"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
@@ -129,6 +140,7 @@
 
 **Testing**
 <br/>
+<br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" title="Jest"/></code>
 
 </td>
@@ -138,6 +150,7 @@
 
 **Package Managers**
 <br/>
+<br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/yarn.png" alt="yarn" title="yarn"/></code>
 
@@ -145,6 +158,7 @@
 <td valign="top" width="50%">
 
 **Web Servers**
+<br/>
 <br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code>
 
@@ -155,12 +169,14 @@
 
 **Shell**
 <br/>
+<br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
 
 </td>
 <td valign="top" width="50%">
 
 **IDEs / Editors**
+<br/>
 <br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" alt="WebStorm" title="WebStorm"/></code>
@@ -175,6 +191,7 @@
 
 **Design**
 <br/>
+<br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
 
@@ -182,6 +199,7 @@
 <td valign="top" width="50%">
 
 **Hosting / CDN / Comms**
+<br/>
 <br/>
 <code><img width="40" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" title="Vercel"/></code>
 <code><img width="40" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" title="Cloudflare"/></code>
@@ -194,12 +212,14 @@
 
 **Messaging**
 <br/>
+<br/>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"/></code>
 
 </td>
 <td valign="top" width="50%">
 
 **Home Lab / Self-Hosted**
+<br/>
 <br/>
 <code><img width="40" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n"/></code>
 <code><img width="40" src="https://cdn.simpleicons.org/authentik/FD4B2D" alt="Authentik" title="Authentik"/></code>
